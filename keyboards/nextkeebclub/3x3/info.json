@@ -1,0 +1,27 @@
+{
+  "manufacturer": "NextKeyboardClub",
+  "keyboard_name": "NKC_3x3_1",
+  "maintainer": "Calvinism",
+  "usb": {
+    "device_version": "1.0.0",
+    "pid": "0x0304", // Product ID: This can be anything but has to be unique.
+    "vid": "0x7505"  // Vendor ID: This can be anything but has to be unique.
+  },
+
+  "layouts": {
+    "LAYOUT_ortho_3x3": {
+      "layout": [
+        {"label":"K00", "x":0, "y":0},
+        {"label":"K01", "x":1, "y":0},
+        {"label":"K02", "x":2, "y":0},
+        {"label":"K04", "x":0, "y":1},
+        {"label":"K05", "x":1, "y":1},
+        {"label":"K06", "x":2, "y":1},  
+        {"label":"K08", "x":0, "y":2},
+        {"label":"K09", "x":1, "y":2},
+        {"label":"K10", "x":2, "y":2},
+        {"label":"K11", "x":3, "y":2}
+      ]
+    }
+  }
+}
