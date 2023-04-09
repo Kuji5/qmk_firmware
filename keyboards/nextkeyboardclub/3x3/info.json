@@ -4,8 +4,8 @@
   "maintainer": "Calvinism",
   "usb": {
     "device_version": "1.0.0",
-    "pid": "0x0051", // Product ID: This can be anything but has to be unique.
-    "vid": "0x0050"  // Vendor ID: This can be anything but has to be unique.
+    "pid": "0x0051",
+    "vid": "0x0050"
   },
 
   "layouts": {
